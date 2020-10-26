@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
+
+#container{
+    position: relative;
+    width: 100%;
+}
+#container img{
+    width: 100%;
+    height: auto;
+}
+#container .button{
+    font-family: "quicksand",sans-serif;
+    font-size: larger;
+    font-weight: 600;
+    position: absolute;
+    left: 7%;
+    top: 70%;
+    padding: 1.25% 8%;
+    color: white;
+    background: linear-gradient(120deg,#95419E,#F03639);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+#container .button2{
+    font-family: "quicksand",sans-serif;
+    font-size: larger;
+    font-weight: 600;
+    position: absolute;
+    left: 38.5%;
+    top: 80%;
+    padding: 1.25% 8%;
+    color: white;
+    background: linear-gradient(120deg,#95419E,#F03639);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
